@@ -1,0 +1,28 @@
+{
+    "ventas_restaurante": [
+        {
+            "cliente": {
+                "nombre": "Leonardo Segovia",
+                "cedula": "27985520",
+                "edad": 22
+            },
+            "productos": [
+                {
+                    "nombre": "Guapa Acero Pantalones",
+                    "tipo": "package",
+                    "precio": 781.0,
+                    "cantidad": 10247,
+                    "stock": 382,
+                    "adicional": "package"
+                }
+            ]
+        }
+    ],
+    "clientes_vip": [
+        {
+            "nombre": "Leonardo Segovia",
+            "cedula": "27985520",
+            "edad": 22
+        }
+    ]
+}

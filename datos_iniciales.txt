@@ -1,0 +1,1010 @@
+{
+    "equipos": [
+        {
+            "nombre": "Germany",
+            "codigo_fifa": "GER",
+            "grupo": "A"
+        },
+        {
+            "nombre": "Scotland",
+            "codigo_fifa": "SCO",
+            "grupo": "A"
+        },
+        {
+            "nombre": "Hungary",
+            "codigo_fifa": "HUN",
+            "grupo": "A"
+        },
+        {
+            "nombre": "Switzerland",
+            "codigo_fifa": "SUI",
+            "grupo": "A"
+        },
+        {
+            "nombre": "Spain",
+            "codigo_fifa": "ESP",
+            "grupo": "B"
+        },
+        {
+            "nombre": "Croatia",
+            "codigo_fifa": "CRO",
+            "grupo": "B"
+        },
+        {
+            "nombre": "Italy",
+            "codigo_fifa": "ITA",
+            "grupo": "B"
+        },
+        {
+            "nombre": "Albania",
+            "codigo_fifa": "ALB",
+            "grupo": "B"
+        },
+        {
+            "nombre": "Slovenia",
+            "codigo_fifa": "SVN",
+            "grupo": "C"
+        },
+        {
+            "nombre": "Denmark",
+            "codigo_fifa": "DEN",
+            "grupo": "C"
+        },
+        {
+            "nombre": "Serbia",
+            "codigo_fifa": "SRB",
+            "grupo": "C"
+        },
+        {
+            "nombre": "England",
+            "codigo_fifa": "ENG",
+            "grupo": "C"
+        },
+        {
+            "nombre": "Poland",
+            "codigo_fifa": "POL",
+            "grupo": "D"
+        },
+        {
+            "nombre": "Netherlands",
+            "codigo_fifa": "NED",
+            "grupo": "D"
+        },
+        {
+            "nombre": "Austria",
+            "codigo_fifa": "AUT",
+            "grupo": "D"
+        },
+        {
+            "nombre": "France",
+            "codigo_fifa": "FRA",
+            "grupo": "D"
+        },
+        {
+            "nombre": "Romania",
+            "codigo_fifa": "ROU",
+            "grupo": "E"
+        },
+        {
+            "nombre": "Ukraine",
+            "codigo_fifa": "UKR",
+            "grupo": "E"
+        },
+        {
+            "nombre": "Belgium",
+            "codigo_fifa": "BEL",
+            "grupo": "E"
+        },
+        {
+            "nombre": "Slovakia",
+            "codigo_fifa": "SVK",
+            "grupo": "E"
+        },
+        {
+            "nombre": "Turkey",
+            "codigo_fifa": "TUR",
+            "grupo": "F"
+        },
+        {
+            "nombre": "Georgia",
+            "codigo_fifa": "GEO",
+            "grupo": "F"
+        },
+        {
+            "nombre": "Portugal",
+            "codigo_fifa": "POR",
+            "grupo": "F"
+        },
+        {
+            "nombre": "Czech Republic",
+            "codigo_fifa": "CZE",
+            "grupo": "F"
+        }
+    ],
+    "estadios": [
+        {
+            "id": "2eead114-7627-45c4-83ab-ee3d66a6c62f",
+            "nombre": "Estadio Ol\u00edmpico de Berl\u00edn",
+            "ubicacion": "Berl\u00edn",
+            "capacity": [
+                133,
+                319
+            ]
+        },
+        {
+            "id": "50542213-b8e8-400e-8353-4e3b3cfa8144",
+            "nombre": "Allianz Arena",
+            "ubicacion": "Munich",
+            "capacity": [
+                937,
+                411
+            ]
+        },
+        {
+            "id": "ba2b4f33-1d5e-4f63-ae0d-e491a48f41d4",
+            "nombre": "Signal Iduna Park",
+            "ubicacion": "Dortmund",
+            "capacity": [
+                19,
+                159
+            ]
+        },
+        {
+            "id": "53fa70dc-06c9-42a8-a4fd-9a02c0411704",
+            "nombre": "MHPArena",
+            "ubicacion": "Stuttgart",
+            "capacity": [
+                885,
+                418
+            ]
+        },
+        {
+            "id": "92940c44-15af-44a9-9fd4-480d0d865e27",
+            "nombre": "Veltins-Arena",
+            "ubicacion": "Gelsenkirchen",
+            "capacity": [
+                735,
+                253
+            ]
+        },
+        {
+            "id": "3181b7d7-77cc-42a8-96c9-ab6c18e282ae",
+            "nombre": "Volksparkstadion",
+            "ubicacion": "Hamburgo",
+            "capacity": [
+                53,
+                357
+            ]
+        },
+        {
+            "id": "85bf8f3a-4bb8-413e-8bf6-d577178b1eb7",
+            "nombre": "Deutsche Bank Park",
+            "ubicacion": "Fr\u00e1ncfort del Meno",
+            "capacity": [
+                222,
+                24
+            ]
+        },
+        {
+            "id": "3db1375b-a28f-4908-9878-ec0fe5a5587f",
+            "nombre": "Estadio Rhein Energie",
+            "ubicacion": "Colonia",
+            "capacity": [
+                374,
+                424
+            ]
+        },
+        {
+            "id": "2ae81544-c13f-442f-b332-6887628e9d6a",
+            "nombre": "Red Bull Arena",
+            "ubicacion": "Leipzig",
+            "capacity": [
+                292,
+                206
+            ]
+        },
+        {
+            "id": "2a3ea87b-3c46-4181-8409-56150ba3c962",
+            "nombre": "Merkur Spiel-Arena",
+            "ubicacion": "D\u00fcsseldorf",
+            "capacity": [
+                768,
+                169
+            ]
+        }
+    ],
+    "partidos": [
+        {
+            "equipo_local": {
+                "nombre": "Germany",
+                "codigo_fifa": "GER",
+                "grupo": "A"
+            },
+            "equipo_visitante": {
+                "nombre": "Scotland",
+                "codigo_fifa": "SCO",
+                "grupo": "A"
+            },
+            "fecha_hora": "2024-06-14",
+            "estadio": {
+                "id": "3db1375b-a28f-4908-9878-ec0fe5a5587f",
+                "nombre": "Estadio Rhein Energie",
+                "ubicacion": "Colonia",
+                "capacity": [
+                    374,
+                    424
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Hungary",
+                "codigo_fifa": "HUN",
+                "grupo": "A"
+            },
+            "equipo_visitante": {
+                "nombre": "Switzerland",
+                "codigo_fifa": "SUI",
+                "grupo": "A"
+            },
+            "fecha_hora": "2024-06-15",
+            "estadio": {
+                "id": "3181b7d7-77cc-42a8-96c9-ab6c18e282ae",
+                "nombre": "Volksparkstadion",
+                "ubicacion": "Hamburgo",
+                "capacity": [
+                    53,
+                    357
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Spain",
+                "codigo_fifa": "ESP",
+                "grupo": "B"
+            },
+            "equipo_visitante": {
+                "nombre": "Croatia",
+                "codigo_fifa": "CRO",
+                "grupo": "B"
+            },
+            "fecha_hora": "2024-06-15",
+            "estadio": {
+                "id": "2eead114-7627-45c4-83ab-ee3d66a6c62f",
+                "nombre": "Estadio Ol\u00edmpico de Berl\u00edn",
+                "ubicacion": "Berl\u00edn",
+                "capacity": [
+                    133,
+                    319
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Italy",
+                "codigo_fifa": "ITA",
+                "grupo": "B"
+            },
+            "equipo_visitante": {
+                "nombre": "Albania",
+                "codigo_fifa": "ALB",
+                "grupo": "B"
+            },
+            "fecha_hora": "2024-06-15",
+            "estadio": {
+                "id": "92940c44-15af-44a9-9fd4-480d0d865e27",
+                "nombre": "Veltins-Arena",
+                "ubicacion": "Gelsenkirchen",
+                "capacity": [
+                    735,
+                    253
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Slovenia",
+                "codigo_fifa": "SVN",
+                "grupo": "C"
+            },
+            "equipo_visitante": {
+                "nombre": "Denmark",
+                "codigo_fifa": "DEN",
+                "grupo": "C"
+            },
+            "fecha_hora": "2024-06-16",
+            "estadio": {
+                "id": "53fa70dc-06c9-42a8-a4fd-9a02c0411704",
+                "nombre": "MHPArena",
+                "ubicacion": "Stuttgart",
+                "capacity": [
+                    885,
+                    418
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Serbia",
+                "codigo_fifa": "SRB",
+                "grupo": "C"
+            },
+            "equipo_visitante": {
+                "nombre": "England",
+                "codigo_fifa": "ENG",
+                "grupo": "C"
+            },
+            "fecha_hora": "2024-06-16",
+            "estadio": {
+                "id": "3181b7d7-77cc-42a8-96c9-ab6c18e282ae",
+                "nombre": "Volksparkstadion",
+                "ubicacion": "Hamburgo",
+                "capacity": [
+                    53,
+                    357
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Poland",
+                "codigo_fifa": "POL",
+                "grupo": "D"
+            },
+            "equipo_visitante": {
+                "nombre": "Netherlands",
+                "codigo_fifa": "NED",
+                "grupo": "D"
+            },
+            "fecha_hora": "2024-06-16",
+            "estadio": {
+                "id": "2eead114-7627-45c4-83ab-ee3d66a6c62f",
+                "nombre": "Estadio Ol\u00edmpico de Berl\u00edn",
+                "ubicacion": "Berl\u00edn",
+                "capacity": [
+                    133,
+                    319
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Austria",
+                "codigo_fifa": "AUT",
+                "grupo": "D"
+            },
+            "equipo_visitante": {
+                "nombre": "France",
+                "codigo_fifa": "FRA",
+                "grupo": "D"
+            },
+            "fecha_hora": "2024-06-17",
+            "estadio": {
+                "id": "85bf8f3a-4bb8-413e-8bf6-d577178b1eb7",
+                "nombre": "Deutsche Bank Park",
+                "ubicacion": "Fr\u00e1ncfort del Meno",
+                "capacity": [
+                    222,
+                    24
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Romania",
+                "codigo_fifa": "ROU",
+                "grupo": "E"
+            },
+            "equipo_visitante": {
+                "nombre": "Ukraine",
+                "codigo_fifa": "UKR",
+                "grupo": "E"
+            },
+            "fecha_hora": "2024-06-17",
+            "estadio": {
+                "id": "ba2b4f33-1d5e-4f63-ae0d-e491a48f41d4",
+                "nombre": "Signal Iduna Park",
+                "ubicacion": "Dortmund",
+                "capacity": [
+                    19,
+                    159
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Belgium",
+                "codigo_fifa": "BEL",
+                "grupo": "E"
+            },
+            "equipo_visitante": {
+                "nombre": "Slovakia",
+                "codigo_fifa": "SVK",
+                "grupo": "E"
+            },
+            "fecha_hora": "2024-06-17",
+            "estadio": {
+                "id": "2ae81544-c13f-442f-b332-6887628e9d6a",
+                "nombre": "Red Bull Arena",
+                "ubicacion": "Leipzig",
+                "capacity": [
+                    292,
+                    206
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Turkey",
+                "codigo_fifa": "TUR",
+                "grupo": "F"
+            },
+            "equipo_visitante": {
+                "nombre": "Georgia",
+                "codigo_fifa": "GEO",
+                "grupo": "F"
+            },
+            "fecha_hora": "2024-06-18",
+            "estadio": {
+                "id": "85bf8f3a-4bb8-413e-8bf6-d577178b1eb7",
+                "nombre": "Deutsche Bank Park",
+                "ubicacion": "Fr\u00e1ncfort del Meno",
+                "capacity": [
+                    222,
+                    24
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Portugal",
+                "codigo_fifa": "POR",
+                "grupo": "F"
+            },
+            "equipo_visitante": {
+                "nombre": "Czech Republic",
+                "codigo_fifa": "CZE",
+                "grupo": "F"
+            },
+            "fecha_hora": "2024-06-18",
+            "estadio": {
+                "id": "2eead114-7627-45c4-83ab-ee3d66a6c62f",
+                "nombre": "Estadio Ol\u00edmpico de Berl\u00edn",
+                "ubicacion": "Berl\u00edn",
+                "capacity": [
+                    133,
+                    319
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Germany",
+                "codigo_fifa": "GER",
+                "grupo": "A"
+            },
+            "equipo_visitante": {
+                "nombre": "Hungary",
+                "codigo_fifa": "HUN",
+                "grupo": "A"
+            },
+            "fecha_hora": "2024-06-19",
+            "estadio": {
+                "id": "2a3ea87b-3c46-4181-8409-56150ba3c962",
+                "nombre": "Merkur Spiel-Arena",
+                "ubicacion": "D\u00fcsseldorf",
+                "capacity": [
+                    768,
+                    169
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Scotland",
+                "codigo_fifa": "SCO",
+                "grupo": "A"
+            },
+            "equipo_visitante": {
+                "nombre": "Switzerland",
+                "codigo_fifa": "SUI",
+                "grupo": "A"
+            },
+            "fecha_hora": "2024-06-19",
+            "estadio": {
+                "id": "2ae81544-c13f-442f-b332-6887628e9d6a",
+                "nombre": "Red Bull Arena",
+                "ubicacion": "Leipzig",
+                "capacity": [
+                    292,
+                    206
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Croatia",
+                "codigo_fifa": "CRO",
+                "grupo": "B"
+            },
+            "equipo_visitante": {
+                "nombre": "Albania",
+                "codigo_fifa": "ALB",
+                "grupo": "B"
+            },
+            "fecha_hora": "2024-06-19",
+            "estadio": {
+                "id": "92940c44-15af-44a9-9fd4-480d0d865e27",
+                "nombre": "Veltins-Arena",
+                "ubicacion": "Gelsenkirchen",
+                "capacity": [
+                    735,
+                    253
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Spain",
+                "codigo_fifa": "ESP",
+                "grupo": "B"
+            },
+            "equipo_visitante": {
+                "nombre": "Italy",
+                "codigo_fifa": "ITA",
+                "grupo": "B"
+            },
+            "fecha_hora": "2024-06-20",
+            "estadio": {
+                "id": "50542213-b8e8-400e-8353-4e3b3cfa8144",
+                "nombre": "Allianz Arena",
+                "ubicacion": "Munich",
+                "capacity": [
+                    937,
+                    411
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Slovenia",
+                "codigo_fifa": "SVN",
+                "grupo": "C"
+            },
+            "equipo_visitante": {
+                "nombre": "Serbia",
+                "codigo_fifa": "SRB",
+                "grupo": "C"
+            },
+            "fecha_hora": "2024-06-20",
+            "estadio": {
+                "id": "53fa70dc-06c9-42a8-a4fd-9a02c0411704",
+                "nombre": "MHPArena",
+                "ubicacion": "Stuttgart",
+                "capacity": [
+                    885,
+                    418
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Denmark",
+                "codigo_fifa": "DEN",
+                "grupo": "C"
+            },
+            "equipo_visitante": {
+                "nombre": "England",
+                "codigo_fifa": "ENG",
+                "grupo": "C"
+            },
+            "fecha_hora": "2024-06-20",
+            "estadio": {
+                "id": "53fa70dc-06c9-42a8-a4fd-9a02c0411704",
+                "nombre": "MHPArena",
+                "ubicacion": "Stuttgart",
+                "capacity": [
+                    885,
+                    418
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Poland",
+                "codigo_fifa": "POL",
+                "grupo": "D"
+            },
+            "equipo_visitante": {
+                "nombre": "Austria",
+                "codigo_fifa": "AUT",
+                "grupo": "D"
+            },
+            "fecha_hora": "2024-06-21",
+            "estadio": {
+                "id": "85bf8f3a-4bb8-413e-8bf6-d577178b1eb7",
+                "nombre": "Deutsche Bank Park",
+                "ubicacion": "Fr\u00e1ncfort del Meno",
+                "capacity": [
+                    222,
+                    24
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Netherlands",
+                "codigo_fifa": "NED",
+                "grupo": "D"
+            },
+            "equipo_visitante": {
+                "nombre": "France",
+                "codigo_fifa": "FRA",
+                "grupo": "D"
+            },
+            "fecha_hora": "2024-06-21",
+            "estadio": {
+                "id": "ba2b4f33-1d5e-4f63-ae0d-e491a48f41d4",
+                "nombre": "Signal Iduna Park",
+                "ubicacion": "Dortmund",
+                "capacity": [
+                    19,
+                    159
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Slovakia",
+                "codigo_fifa": "SVK",
+                "grupo": "E"
+            },
+            "equipo_visitante": {
+                "nombre": "Ukraine",
+                "codigo_fifa": "UKR",
+                "grupo": "E"
+            },
+            "fecha_hora": "2024-06-21",
+            "estadio": {
+                "id": "85bf8f3a-4bb8-413e-8bf6-d577178b1eb7",
+                "nombre": "Deutsche Bank Park",
+                "ubicacion": "Fr\u00e1ncfort del Meno",
+                "capacity": [
+                    222,
+                    24
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Belgium",
+                "codigo_fifa": "BEL",
+                "grupo": "E"
+            },
+            "equipo_visitante": {
+                "nombre": "Romania",
+                "codigo_fifa": "ROU",
+                "grupo": "E"
+            },
+            "fecha_hora": "2024-06-22",
+            "estadio": {
+                "id": "2eead114-7627-45c4-83ab-ee3d66a6c62f",
+                "nombre": "Estadio Ol\u00edmpico de Berl\u00edn",
+                "ubicacion": "Berl\u00edn",
+                "capacity": [
+                    133,
+                    319
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Georgia",
+                "codigo_fifa": "GEO",
+                "grupo": "F"
+            },
+            "equipo_visitante": {
+                "nombre": "Czech Republic",
+                "codigo_fifa": "CZE",
+                "grupo": "F"
+            },
+            "fecha_hora": "2024-06-22",
+            "estadio": {
+                "id": "85bf8f3a-4bb8-413e-8bf6-d577178b1eb7",
+                "nombre": "Deutsche Bank Park",
+                "ubicacion": "Fr\u00e1ncfort del Meno",
+                "capacity": [
+                    222,
+                    24
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Turkey",
+                "codigo_fifa": "TUR",
+                "grupo": "F"
+            },
+            "equipo_visitante": {
+                "nombre": "Portugal",
+                "codigo_fifa": "POR",
+                "grupo": "F"
+            },
+            "fecha_hora": "2024-06-22",
+            "estadio": {
+                "id": "2a3ea87b-3c46-4181-8409-56150ba3c962",
+                "nombre": "Merkur Spiel-Arena",
+                "ubicacion": "D\u00fcsseldorf",
+                "capacity": [
+                    768,
+                    169
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Switzerland",
+                "codigo_fifa": "SUI",
+                "grupo": "A"
+            },
+            "equipo_visitante": {
+                "nombre": "Germany",
+                "codigo_fifa": "GER",
+                "grupo": "A"
+            },
+            "fecha_hora": "2024-06-23",
+            "estadio": {
+                "id": "92940c44-15af-44a9-9fd4-480d0d865e27",
+                "nombre": "Veltins-Arena",
+                "ubicacion": "Gelsenkirchen",
+                "capacity": [
+                    735,
+                    253
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Scotland",
+                "codigo_fifa": "SCO",
+                "grupo": "A"
+            },
+            "equipo_visitante": {
+                "nombre": "Hungary",
+                "codigo_fifa": "HUN",
+                "grupo": "A"
+            },
+            "fecha_hora": "2024-06-23",
+            "estadio": {
+                "id": "2ae81544-c13f-442f-b332-6887628e9d6a",
+                "nombre": "Red Bull Arena",
+                "ubicacion": "Leipzig",
+                "capacity": [
+                    292,
+                    206
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Albania",
+                "codigo_fifa": "ALB",
+                "grupo": "B"
+            },
+            "equipo_visitante": {
+                "nombre": "Spain",
+                "codigo_fifa": "ESP",
+                "grupo": "B"
+            },
+            "fecha_hora": "2024-06-24",
+            "estadio": {
+                "id": "2eead114-7627-45c4-83ab-ee3d66a6c62f",
+                "nombre": "Estadio Ol\u00edmpico de Berl\u00edn",
+                "ubicacion": "Berl\u00edn",
+                "capacity": [
+                    133,
+                    319
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Croatia",
+                "codigo_fifa": "CRO",
+                "grupo": "B"
+            },
+            "equipo_visitante": {
+                "nombre": "Italy",
+                "codigo_fifa": "ITA",
+                "grupo": "B"
+            },
+            "fecha_hora": "2024-06-24",
+            "estadio": {
+                "id": "92940c44-15af-44a9-9fd4-480d0d865e27",
+                "nombre": "Veltins-Arena",
+                "ubicacion": "Gelsenkirchen",
+                "capacity": [
+                    735,
+                    253
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "England",
+                "codigo_fifa": "ENG",
+                "grupo": "C"
+            },
+            "equipo_visitante": {
+                "nombre": "Slovenia",
+                "codigo_fifa": "SVN",
+                "grupo": "C"
+            },
+            "fecha_hora": "2024-06-25",
+            "estadio": {
+                "id": "2eead114-7627-45c4-83ab-ee3d66a6c62f",
+                "nombre": "Estadio Ol\u00edmpico de Berl\u00edn",
+                "ubicacion": "Berl\u00edn",
+                "capacity": [
+                    133,
+                    319
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Denmark",
+                "codigo_fifa": "DEN",
+                "grupo": "C"
+            },
+            "equipo_visitante": {
+                "nombre": "Serbia",
+                "codigo_fifa": "SRB",
+                "grupo": "C"
+            },
+            "fecha_hora": "2024-06-25",
+            "estadio": {
+                "id": "50542213-b8e8-400e-8353-4e3b3cfa8144",
+                "nombre": "Allianz Arena",
+                "ubicacion": "Munich",
+                "capacity": [
+                    937,
+                    411
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Netherlands",
+                "codigo_fifa": "NED",
+                "grupo": "D"
+            },
+            "equipo_visitante": {
+                "nombre": "Austria",
+                "codigo_fifa": "AUT",
+                "grupo": "D"
+            },
+            "fecha_hora": "2024-06-25",
+            "estadio": {
+                "id": "53fa70dc-06c9-42a8-a4fd-9a02c0411704",
+                "nombre": "MHPArena",
+                "ubicacion": "Stuttgart",
+                "capacity": [
+                    885,
+                    418
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "France",
+                "codigo_fifa": "FRA",
+                "grupo": "D"
+            },
+            "equipo_visitante": {
+                "nombre": "Poland",
+                "codigo_fifa": "POL",
+                "grupo": "D"
+            },
+            "fecha_hora": "2024-06-25",
+            "estadio": {
+                "id": "3181b7d7-77cc-42a8-96c9-ab6c18e282ae",
+                "nombre": "Volksparkstadion",
+                "ubicacion": "Hamburgo",
+                "capacity": [
+                    53,
+                    357
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Slovakia",
+                "codigo_fifa": "SVK",
+                "grupo": "E"
+            },
+            "equipo_visitante": {
+                "nombre": "Romania",
+                "codigo_fifa": "ROU",
+                "grupo": "E"
+            },
+            "fecha_hora": "2024-06-26",
+            "estadio": {
+                "id": "50542213-b8e8-400e-8353-4e3b3cfa8144",
+                "nombre": "Allianz Arena",
+                "ubicacion": "Munich",
+                "capacity": [
+                    937,
+                    411
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Ukraine",
+                "codigo_fifa": "UKR",
+                "grupo": "E"
+            },
+            "equipo_visitante": {
+                "nombre": "Belgium",
+                "codigo_fifa": "BEL",
+                "grupo": "E"
+            },
+            "fecha_hora": "2024-06-26",
+            "estadio": {
+                "id": "3181b7d7-77cc-42a8-96c9-ab6c18e282ae",
+                "nombre": "Volksparkstadion",
+                "ubicacion": "Hamburgo",
+                "capacity": [
+                    53,
+                    357
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Georgia",
+                "codigo_fifa": "GEO",
+                "grupo": "F"
+            },
+            "equipo_visitante": {
+                "nombre": "Portugal",
+                "codigo_fifa": "POR",
+                "grupo": "F"
+            },
+            "fecha_hora": "2024-06-26",
+            "estadio": {
+                "id": "2ae81544-c13f-442f-b332-6887628e9d6a",
+                "nombre": "Red Bull Arena",
+                "ubicacion": "Leipzig",
+                "capacity": [
+                    292,
+                    206
+                ]
+            }
+        },
+        {
+            "equipo_local": {
+                "nombre": "Czech Republic",
+                "codigo_fifa": "CZE",
+                "grupo": "F"
+            },
+            "equipo_visitante": {
+                "nombre": "Turkey",
+                "codigo_fifa": "TUR",
+                "grupo": "F"
+            },
+            "fecha_hora": "2024-06-26",
+            "estadio": {
+                "id": "2ae81544-c13f-442f-b332-6887628e9d6a",
+                "nombre": "Red Bull Arena",
+                "ubicacion": "Leipzig",
+                "capacity": [
+                    292,
+                    206
+                ]
+            }
+        }
+    ]
+}

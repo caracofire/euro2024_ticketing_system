@@ -1,0 +1,42 @@
+{
+    "entradas_vendidas": [
+        {
+            "cliente": {
+                "nombre": "Leonardo Segovia",
+                "cedula": "27985520",
+                "edad": 22
+            },
+            "partido": {
+                "id": "40ceee04-b1b9-4846-ba1a-b4afa2df7111",
+                "number": 35,
+                "equipo_local": {
+                    "id": "b32c045d-8217-44d5-94be-a19beffbaefa",
+                    "nombre": "Georgia",
+                    "codigo_fifa": "GEO",
+                    "grupo": "F"
+                },
+                "equipo_visitante": {
+                    "id": "547fc83b-b29d-4480-9ac5-f7cfeb3c02d2",
+                    "nombre": "Portugal",
+                    "codigo_fifa": "POR",
+                    "grupo": "F"
+                },
+                "fecha_hora": "2024-06-26",
+                "grupo": "Group F",
+                "estadio": {
+                    "id": "2ae81544-c13f-442f-b332-6887628e9d6a",
+                    "nombre": "Red Bull Arena",
+                    "ubicacion": "Leipzig",
+                    "capacidad": [
+                        292,
+                        206
+                    ],
+                    "latitud": null,
+                    "longitud": null
+                }
+            },
+            "tipo_entrada": "General",
+            "asiento": "Fila 5, Columna 12"
+        }
+    ]
+}
